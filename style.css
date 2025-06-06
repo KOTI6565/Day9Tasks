@@ -1,0 +1,25 @@
+.container{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+}
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+label{
+    margin-right: 10px;
+}
+div{
+    display: flex;
+    margin: 10px;
+    align-items: flex-start;
+    justify-content: center;
+}
+p{
+    margin-top: 0;
+}
+input, textarea{
+    margin-right: 20px;
+}
